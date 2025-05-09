@@ -1,0 +1,9 @@
+//Program A
+x := 2;
+y := x * 3;
+assert(y == 6);
+
+//Program b
+     a := 2;
+     b := a + a + a;
+     assert(b == 6);

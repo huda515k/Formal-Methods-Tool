@@ -1,0 +1,6 @@
+n := 4;
+factorial := 1;
+for (i := 1; i <= n; i := i + 1) {
+  factorial := factorial * i;
+}
+assert(factorial == 24);
